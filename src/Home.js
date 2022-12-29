@@ -12,8 +12,7 @@ const Home = () => {
   <Services/>
   <Trusted/>
   </>
-    
-    
+      
   )
 }
 
