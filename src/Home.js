@@ -1,4 +1,5 @@
 import React from 'react'
+import Footer from './components/Footer';
 // import styled from 'styled-components'
 import HeroSection from './components/HeroSection'
 import Services from './components/Services';
@@ -11,6 +12,7 @@ const Home = () => {
   <HeroSection myData={data}/>
   <Services/>
   <Trusted/>
+  
   </>
       
   )

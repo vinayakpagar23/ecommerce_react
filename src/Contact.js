@@ -1,4 +1,5 @@
 import styled from "styled-components";
+import Footer from "./components/Footer";
 
 const Contact = () => {
   const Wrapper = styled.section`
@@ -55,6 +56,7 @@ const Contact = () => {
           </form>
          </div>
       </div>
+      
     </Wrapper>
   );
 };

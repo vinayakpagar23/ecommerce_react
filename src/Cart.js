@@ -1,7 +1,11 @@
 import styled from "styled-components";
+import Footer from "./components/Footer";
 
 const Cart = () => {
-  return <Wrapper></Wrapper>;
+  return <Wrapper>
+
+   
+  </Wrapper>;
 };
 
 const Wrapper = styled.section`
