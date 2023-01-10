@@ -1,4 +1,5 @@
 import React from 'react'
+import FeatureProduct from './components/FeatureProduct';
 import Footer from './components/Footer';
 // import styled from 'styled-components'
 import HeroSection from './components/HeroSection'
@@ -10,6 +11,7 @@ const Home = () => {
     };
   return (<>
   <HeroSection myData={data}/>
+  <FeatureProduct/>
   <Services/>
   <Trusted/>
   
